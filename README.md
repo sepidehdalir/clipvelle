@@ -4,7 +4,17 @@
 
 **Your video. Just the audio.** A focused native iPhone and iPad utility that extracts a chosen audio track from your own local video, lets you listen and trim one segment, then exports a named M4A or WAV file.
 
-**Status · October16,2026:** In development. Apple has accepted the name and app record. Not submitted or released. Core native extraction tests passed; production QA and StoreKit checks are ongoing. This public showcase contains product documentation and visuals. Commercial source is maintained separately in a private repository.
+**Status · October 16, 2026:** V1 implemented; native extraction/UI and local StoreKit QA passed on iOS 17.0 and 26.2. Apple validated the signed archive; build 1.0 (1) is uploaded, processed and selected in App Store Connect. Premium iPhone and iPad campaigns are saved. Physical device/sandbox checks and owner privacy publication remain open. **Not submitted or released.** Commercial source is maintained separately in a private repository.
+
+## Campaign
+
+Distinct iPhone and iPad art direction around authentic final app UI. Original chime media and decorative film-to-sound artwork; no fabricated controls or output data.
+
+<img src="docs/assets/iphone-campaign.png" width="1100" alt="iPhone campaign: outcome, trim workflow, export, Pro and local privacy">
+
+<img src="docs/assets/ipad-campaign.png" width="1100" alt="Dedicated iPad campaign showing the source list and export inspector">
+
+[Full iPhone frames](docs/assets/iPhone) · [Full iPad frames](docs/assets/iPad)
 
 ## Product
 
@@ -17,7 +27,7 @@
 
 ## Engineering
 
-Swift, SwiftUI, AVFoundation, PhotosUI, UniformTypeIdentifiers and StoreKit2. Universal iPhone/iPad with an iOS15 deployment target and availability fallbacks. Streaming reader/writer conversion, coordinated security-scoped imports, cancellation cleanup, durable source/export ownership and verified StoreKit entitlements. XCTest covers decoded audio, trimming, invalid media, collisions, cancellation and persistence. No third-party runtime dependencies.
+Swift, SwiftUI, AVFoundation, PhotosUI, UniformTypeIdentifiers and StoreKit 2. Universal iPhone/iPad with an iOS 15 deployment target and availability fallbacks. Streaming reader/writer conversion, coordinated security-scoped imports, cancellation cleanup, durable source/export ownership and verified StoreKit entitlements. XCTest covers decoded audio, trimming, invalid media, collisions, cancellation and persistence. No third-party runtime dependencies.
 
 ## Privacy
 
