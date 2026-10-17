@@ -4,7 +4,7 @@
 
 **Your video. Just the audio.** A focused native iPhone and iPad utility that extracts a chosen audio track from your own local video, lets you listen and trim one segment, then exports a named M4A or WAV file.
 
-**Status · October 16, 2026:** V1 implemented; native extraction/UI and local StoreKit QA passed on iOS 17.0 and 26.2. Apple validated the signed archive; build 1.0 (1) is uploaded, processed and selected in App Store Connect. Premium iPhone and iPad campaigns are saved. Physical iPhone 26.1 core media, full export/share/relaunch and remote product lookup also passed. Data Not Collected privacy label is published. Final trim/Files completion, listening and sandbox transaction checks remain open. **Not submitted or released.** Commercial source is maintained separately in a private repository.
+**Status · October 17, 2026:** Final candidate **1.0 (3)** is Apple-validated, uploaded, processed and selected in App Store Connect. Exact typed trim and iPad focus fixes passed iPad26.2/iOS17 regression checks; final-source iPhone/iPad export, share, relaunch, Photos import, paid batch and presets passed. Premium campaigns use authentic final-source UI. Data Not Collected privacy label is published. Physical build2 exact trim and completed Save passed; final-source physical/Files reopen, human listening and genuine remote sandbox purchase/restore remain open pending device availability and owner authentication. **Not submitted or released.** Commercial source is maintained separately in a private repository.
 
 ## Campaign
 
