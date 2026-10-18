@@ -4,7 +4,7 @@
 
 **Your video. Just the audio.** A focused native iPhone and iPad utility that extracts a chosen audio track from your own local video, lets you listen and trim one segment, then exports a named M4A or WAV file.
 
-**Status · October 17, 2026:** Final **1.0 (3)** is Apple-validated, uploaded and selected with Lifetime Pro in the ready-to-submit draft. Final iPhone/iPad workflows and compatibility checks passed. Physical-device trim, completed Save and native Files reopen passed; the new device output independently decoded as 44.1 kHz stereo with a 4.75-second duration. Premium iPhone/iPad campaigns and the published Data Not Collected privacy label are prepared. Final listening and genuine sandbox purchase/restore verification remain open. **Not submitted or released.** Commercial source is private.
+**Status · October 17, 2026:** **1.0 (3)** and **Clipvelle Lifetime Pro** were submitted together at 9:15 PM PDT and both are **Waiting for Review**. Apple validation/upload, final iPhone/iPad QA, physical trim/Save/native Files preview, decoded physical audio, premium campaigns and published Data Not Collected privacy are complete. Genuine remote Sandbox purchase/restore was **skipped by publisher instruction and remains unverified**; local StoreKit tests passed. Human listening remains unverified. **V1 frozen pending Apple review; not released.** Commercial source is private.
 
 ## Campaign
 
