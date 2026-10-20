@@ -4,7 +4,7 @@
 
 **Your video. Just the audio.** A focused native iPhone and iPad utility that extracts a chosen audio track from your own local video, lets you listen and trim one segment, then exports a named M4A or WAV file.
 
-**Current status — October 19, 2026: Clipvelle app version is Rejected.** App Review recovery is in progress. No approval, public release or corrective resubmission is claimed. Prior submission and QA evidence remain historical; app-specific skipped checks remain skipped.
+**Current review — October 19, 2026:** app **1.0(3) Rejected under 4.3(a)**; Lifetime Pro **Ready for Review**. An app-specific clarification was posted and verified at **October19,2026 18:03PDT**, requesting the specific comparator/overlap and any concrete safety, security or quality issue. No corrective binary, resubmission, approval or release is claimed.
 
 ## Campaign
 
