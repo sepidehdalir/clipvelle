@@ -1,5 +1,7 @@
 # Clipvelle: Video to Audio
 
+**Unsubmitted recovery work — October21,2026:** Unreadable workspace/preset preservation and failed-save rollback are prepared in private source, with targeted native tests on iOS17 and26.5. This is unsubmitted functional remediation; no new binary, resolved4.3 finding or approval. Existing premium campaigns are unchanged.
+
 <img src="docs/assets/icon.png" width="112" alt="Clipvelle film-to-sound icon">
 
 **Your video. Just the audio.** A focused native iPhone and iPad utility that extracts a chosen audio track from your own local video, lets you listen and trim one segment, then exports a named M4A or WAV file.
