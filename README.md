@@ -38,3 +38,8 @@ On-device media processing, no account, ads, tracking SDK or media upload servic
 [Privacy](https://sepidehdalir.github.io/clipvelle/privacy.html) · [Support](https://sepidehdalir.github.io/clipvelle/support.html)
 
 Designed and engineered by **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · hello@arvinify.com
+
+
+## October 22 recovery candidate — not resubmitted
+
+The storage-preservation correction is now packaged as local candidate 1.0(4). Six additional iOS 17 checks pass: four local StoreKit cases, typed trim/export, and audition/export/share/relaunch recovery. A signed archive and App Store distribution IPA export pass local inspection. This is not Apple-server validation, upload, processing, submission, 4.3 resolution or approval. The last submitted build 3 rejection and existing clarification remain the review record. Physical/iPad evidence is historical; no new genuine Sandbox transaction is claimed. Premium iPhone/iPad campaign pixels are unchanged.
